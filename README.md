@@ -2,7 +2,7 @@
 
 ## Data Limite de Entrega: 29 de maio(29/05)
 
-## OBS: arquivo.cpp deverá ser salvo dessa forma "ati1_questao1.cpp" número correspondendo com a lista e o numero da questão.
+### OBS: arquivo.cpp deverá ser salvo dessa forma "ati1_questao1.cpp" número correspondendo com a lista e o numero da questão.
 
 #### Atividade 1
 Questão 1) Faça um algoritmo que leia o nome, cpf, idade, sexo, endereço, telefone e celular de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
