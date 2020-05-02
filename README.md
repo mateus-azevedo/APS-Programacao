@@ -9,7 +9,7 @@ Questão 1) Faça um algoritmo que leia o nome, cpf, idade, sexo, endereço, tel
 
 ✔Questão 2) Faça um programa que solicite três números inteiros do usuário. Informe os números, a soma e a média. (Valor 0,1 ponto)
 
-Questão 3) Ler um número inteiro e verificar se está compreendido entre 10 e 50 (inclusos). Se tiver, imprimir “parabéns”, senão imprimir “erro”. (Valor 0,2 ponto)
+✔Questão 3) Ler um número inteiro e verificar se está compreendido entre 10 e 50 (inclusos). Se tiver, imprimir “parabéns”, senão imprimir “erro”. (Valor 0,2 ponto)
 
 Questão 4) Faça um programa em C que leia um número e verifique se este é igual a 100, menor que 100, maior que 100. (Valor 0,2 ponto)
 
