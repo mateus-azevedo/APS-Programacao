@@ -41,7 +41,7 @@ Questão 2) Escrever um programa que receba vários números inteiros positivos 
 
 Questão 3) Solicitar números reais do usuário (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprimir: Total de números entre 10 e 20. Total de números maiores que 40.5. O programa termina quando o número for =0 (Não deve ser utilizada na contagem). (Valor 0,1 ponto)
 
-Questão 4) Escreva um programa que armazene 10 números reais (UTILIZE ESTRUTURA DE REPETIÇÃO) . Informar quantos números existem em cada faixa: (Valor 0,2 ponto)
+✔Questão 4) Escreva um programa que armazene 10 números reais (UTILIZE ESTRUTURA DE REPETIÇÃO) . Informar quantos números existem em cada faixa: (Valor 0,2 ponto)
 
             Faixa 1 -> 0     -     50
 
