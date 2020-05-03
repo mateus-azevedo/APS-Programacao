@@ -15,7 +15,7 @@ Questão 4) Faça um programa em C que leia um número e verifique se este é ig
 
 Questão 5) Solicitar um salário e prestação do usuário. Se prestação for maior que 30% do salário, imprimir: Empréstimo não pode ser concedido. Senão imprimir: Empréstimo pode ser concedido. (Valor 0,2 ponto)
 
-Questão 6) Um comerciante comprou um produto e quer vendê-lo com lucro de 40% se o valor da compra for menor que 30,00; caso contrário, o lucro será de 35%. Entrar com o valor do produto e imprimir o valor da venda. (Valor 0,2 ponto)
+✔Questão 6) Um comerciante comprou um produto e quer vendê-lo com lucro de 40% se o valor da compra for menor que 30,00; caso contrário, o lucro será de 35%. Entrar com o valor do produto e imprimir o valor da venda. (Valor 0,2 ponto)
 
 
 #### Atividade 2
