@@ -11,7 +11,7 @@ Questão 1) Faça um algoritmo que leia o nome, cpf, idade, sexo, endereço, tel
 
 ✔Questão 3) Ler um número inteiro e verificar se está compreendido entre 10 e 50 (inclusos). Se tiver, imprimir “parabéns”, senão imprimir “erro”. (Valor 0,2 ponto)
 
-Questão 4) Faça um programa em C que leia um número e verifique se este é igual a 100, menor que 100, maior que 100. (Valor 0,2 ponto)
+✔Questão 4) Faça um programa em C que leia um número e verifique se este é igual a 100, menor que 100, maior que 100. (Valor 0,2 ponto)
 
 Questão 5) Solicitar um salário e prestação do usuário. Se prestação for maior que 30% do salário, imprimir: Empréstimo não pode ser concedido. Senão imprimir: Empréstimo pode ser concedido. (Valor 0,2 ponto)
 
