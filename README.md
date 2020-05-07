@@ -5,7 +5,7 @@
 ### OBS: arquivo.cpp deverá ser salvo dessa forma "ati1_questao1.cpp" número correspondendo com a lista e o numero da questão.
 
 #### Atividade 1
-〽️Questão 1) Faça um algoritmo que leia o nome, cpf, idade, sexo, endereço, telefone e celular de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
+✔Questão 1) Faça um algoritmo que leia o nome, cpf, idade, sexo, endereço, telefone e celular de um usuário. Imprima os dados do usuário na tela. (Valor 0,1 ponto)
 
 ✔Questão 2) Faça um programa que solicite três números inteiros do usuário. Informe os números, a soma e a média. (Valor 0,1 ponto)
 
