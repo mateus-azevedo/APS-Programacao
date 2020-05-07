@@ -1,24 +1,31 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <locale.h>
 
 main (){
-	char nome[20], sexo[9], endereco[100], cpf[11], idade[2], telefone[9], celular[9];
+	char nome[31], cpf[12], idade[4], sexo[11], endereco[100], telefone[15], celular[15];
+	
+	setlocale(LC_ALL,"");
 
-	printf("Insira seu nome: "); scanf("%s", &nome);
+	printf("Insira seu nome: "); fgets(nome, 30, stdin);
 	printf("Insira seu CPF (somente numeros): "); scanf("%s", &cpf);
 	printf("Insira sua idade: "); scanf("%s", &idade);
 	printf("Insira seu sexo: "); scanf("%s", &sexo);
-	printf("Insira seu endereco: "); scanf("%s", &endereco);
+	
+	int c;
+	while ((c = getchar()) != '\n' && c != EOF){} //Limpa o Buffer do Teclado
+	
+	printf("Insira seu endereço: "); fgets(endereco, 100, stdin);
 	printf("Insira seu telefone: "); scanf("%s", &telefone);
 	printf("Insira seu celular: "); scanf("%s", &celular);	
 	
-	printf("\n---|---|---|---|---|---");
+	printf("\n---|---|---DADOS USUÁRIO---|---|---\n");
 	
-	printf("\n\nSeu nome eh: %s", &nome);
-	printf("\nSeu CPF eh: %s", &cpf);
-	printf("\nSua idade eh: %s", &idade);
-	printf("\nSeu sexo eh: %s", &sexo);
-	printf("\nSeu endereco eh: %s", &endereco);
-	printf("\nSeu telefone eh: %s", &telefone);
-	printf("\nSeu celular eh: %s", &celular);
+	printf("\nNOME: %s", nome);
+	printf("CPF: %s", cpf);
+	printf("\n\nIDADE: %s", idade);
+	printf("\nSEXO: %s", sexo);
+	printf("\nENDEREÇO: %s", endereco);
+	printf("\nTELEFONE: %s", telefone);
+	printf("\nCELULAR: %s", celular);
 }
