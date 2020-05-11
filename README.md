@@ -37,7 +37,7 @@ Como foi digitado o número 5 a impressão ficaria assim:
 
 Repare que foram impressos 5 vezes na horizontal e 5 na vertical. (Valor 0,2 ponto)
 
-Questão 2) Escrever um programa que receba vários números inteiros positivos (UTILIZE ESTRUTURA DE REPETIÇÃO) e no final imprimir a quantidade de números múltiplos de 3 (três). Para sair digitar um número negativo. (Valor 0,1 ponto)
+✔Questão 2) Escrever um programa que receba vários números inteiros positivos (UTILIZE ESTRUTURA DE REPETIÇÃO) e no final imprimir a quantidade de números múltiplos de 3 (três). Para sair digitar um número negativo. (Valor 0,1 ponto)
 
 Questão 3) Solicitar números reais do usuário (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprimir: Total de números entre 10 e 20. Total de números maiores que 40.5. O programa termina quando o número for =0 (Não deve ser utilizada na contagem). (Valor 0,1 ponto)
 
