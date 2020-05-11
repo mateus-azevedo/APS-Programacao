@@ -19,7 +19,7 @@
 
 
 #### Atividade 2
-Questão 1) Criar um algoritmo que entre com um número e imprima conforme exemplo a seguir:
+✔Questão 1) Criar um algoritmo que entre com um número e imprima conforme exemplo a seguir:
 
 Exemplo: 5
 
