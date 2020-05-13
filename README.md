@@ -55,4 +55,4 @@ Questão 5) Escreva um algoritmo que leia 2 (dois) números, um real e outro int
 
                                                            f(x, n) = xn
 
-Questão 6) Escreva um algoritmo que receba números inteiros. Determine o menor, maior, a soma e a média dos números (UTILIZANDO FUNÇÕES). O programa somente será finalizado quando o usuário digitar o número 0 (zero) (não deve ser considerado nas comparações). (Valor 0,2 ponto)
+:heavy_exclamation_mark:Questão 6) Escreva um algoritmo que receba números inteiros. Determine o menor, maior, a soma e a média dos números (UTILIZANDO FUNÇÕES). O programa somente será finalizado quando o usuário digitar o número 0 (zero) (não deve ser considerado nas comparações). (Valor 0,2 ponto)
