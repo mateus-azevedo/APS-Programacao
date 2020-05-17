@@ -1,0 +1,30 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+
+float calculo_potencia(float x, int n);
+
+main(){
+    float numeroReal, resultado;
+    int numeroInteiro;
+
+    do{
+
+        printf("Informe o numero base: "); scanf("%f", &numeroReal);
+        printf("Informe o enesima potencia: "); scanf("%d", &numeroInteiro);
+
+        resultado = calculo_potencia(numeroReal, numeroInteiro);
+
+        printf("f(%.1f,%d) = %.2f", numeroReal, numeroInteiro, resultado);
+
+    }while(opcao != 'N' || opcao != 'n')
+}
+
+float calculo_potencia(float x, int n){
+    float potencia;
+
+    potencia = pow(x,n);
+
+    return potencia;
+}
+
