@@ -11,13 +11,14 @@ main(){
 
     do{
 
-        printf("Informe o numero base: "); scanf("%f", &numeroReal);
+        printf("\nInforme o numero base: "); scanf("%f", &numeroReal);
         printf("Informe o enesima potencia: "); scanf("%d", &numeroInteiro);
 
         resultado = calculo_potencia(numeroReal, numeroInteiro);
 
-        printf("f(%.1f,%d) = %.2f", numeroReal, numeroInteiro, resultado);
+        printf("f(%.f,%d) = %.2f", numeroReal, numeroInteiro, resultado);
         printf("\n\nDeseja Continuar? [S/N]: "); scanf(" %c", &opcao);
+        system("cls");
 
     }while((opcao == 'S') || (opcao == 's'));
     
@@ -31,4 +32,3 @@ float calculo_potencia(float x, int n){
 
     return potencia;
 }
-
