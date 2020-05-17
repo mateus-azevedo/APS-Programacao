@@ -11,8 +11,8 @@ main(){
 
     do{
 
-        printf("\nInforme o numero base: "); scanf("%f", &numeroReal);
-        printf("Informe o enesima potencia: "); scanf("%d", &numeroInteiro);
+        printf("\nInforme o numero da base: "); scanf("%f", &numeroReal);
+        printf("Informe o expoente (enesima potencia): "); scanf("%d", &numeroInteiro);
 
         resultado = calculo_potencia(numeroReal, numeroInteiro);
 

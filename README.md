@@ -39,7 +39,7 @@ Repare que foram impressos 5 vezes na horizontal e 5 na vertical. (Valor 0,2 pon
 
 ✔Questão 2) Escrever um programa que receba vários números inteiros positivos (UTILIZE ESTRUTURA DE REPETIÇÃO) e no final imprimir a quantidade de números múltiplos de 3 (três). Para sair digitar um número negativo. (Valor 0,1 ponto)
 
-Questão 3) Solicitar números reais do usuário (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprimir: Total de números entre 10 e 20. Total de números maiores que 40.5. O programa termina quando o número for =0 (Não deve ser utilizada na contagem). (Valor 0,1 ponto)
+✔Questão 3) Solicitar números reais do usuário (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprimir: Total de números entre 10 e 20. Total de números maiores que 40.5. O programa termina quando o número for =0 (Não deve ser utilizada na contagem). (Valor 0,1 ponto)
 
 ✔Questão 4) Escreva um programa que armazene 10 números reais (UTILIZE ESTRUTURA DE REPETIÇÃO) . Informar quantos números existem em cada faixa: (Valor 0,2 ponto)
 
@@ -51,7 +51,7 @@ Questão 3) Solicitar números reais do usuário (UTILIZE ESTRUTURA DE REPETIÇ�
 
  
 
-Questão 5) Escreva um algoritmo que leia 2 (dois) números, um real e outro inteiro, e com uma FUNÇÃO calcule a enésima potência de uma variável real x (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprima: (Valor 0,2 ponto)
+✔Questão 5) Escreva um algoritmo que leia 2 (dois) números, um real e outro inteiro, e com uma FUNÇÃO calcule a enésima potência de uma variável real x (UTILIZE ESTRUTURA DE REPETIÇÃO) e imprima: (Valor 0,2 ponto)
 
                                                            f(x, n) = xn
 
