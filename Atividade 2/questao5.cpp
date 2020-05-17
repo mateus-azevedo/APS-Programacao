@@ -7,6 +7,7 @@ float calculo_potencia(float x, int n);
 main(){
     float numeroReal, resultado;
     int numeroInteiro;
+    char opcao;
 
     do{
 
@@ -16,8 +17,11 @@ main(){
         resultado = calculo_potencia(numeroReal, numeroInteiro);
 
         printf("f(%.1f,%d) = %.2f", numeroReal, numeroInteiro, resultado);
+        printf("\n\nDeseja Continuar? [S/N]: "); scanf(" %c", &opcao);
 
-    }while(opcao != 'N' || opcao != 'n')
+    }while((opcao == 'S') || (opcao == 's'));
+    
+    return 0;
 }
 
 float calculo_potencia(float x, int n){
