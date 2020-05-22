@@ -46,4 +46,3 @@ main(){
 		printf("\nMenor numero: %d\nMaior numero: %d\nSoma: %d\nMedia: %d\n\n", menor, maior, soma, media);		
 	}
 }
-
