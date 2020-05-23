@@ -1,3 +1,9 @@
+/*
+	           NOMES                  MATRICULA
+	RHUAN GONZAGA CUNHA FRANCISCO    2020100052
+	VINICIUS SILVA DE OLIVEIRA       2020101398
+	MATEUS SANTOS DE AZEVEDO         2020100086 
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
