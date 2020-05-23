@@ -1,1 +1,0 @@
-salve aqui os arquivos.cpp "ati1_questao(n).cpp"
