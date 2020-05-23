@@ -22,12 +22,12 @@
 	
 		for (k=1; k<=num; k=k+1)
 		{
-			printf("%d",k);
+			printf("%d ",k);
 				if (k==i)
 					break;	
 			
 		}
-			
+		putchar('\n');			
 		putchar('\n');	
 	}	
 	
